@@ -99,7 +99,8 @@ print("RMSE:", rmse)
 <img width="657" alt="image" src="https://github.com/user-attachments/assets/1af6d483-cd1b-427b-8a60-1e56904f5bdf">
 
 ### Model Forecast
-![Uploading image.png…]()
+<img width="528" alt="image" src="https://github.com/user-attachments/assets/f2010a93-0222-4632-a44c-b93d4394a800">
+
 
 
 
