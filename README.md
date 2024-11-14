@@ -1,7 +1,8 @@
-# Exp.no: 10   IMPLEMENTATION OF SARIMA MODEL
 ### Date: 
 ### Name: Koduru Sanath Kumar Reddy 
 ### Register no: 212221240024
+# Exp.no: 10   IMPLEMENTATION OF SARIMA MODEL
+
 
 ### AIM:
 To implement SARIMA model using python.
